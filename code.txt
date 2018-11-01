@@ -13,3 +13,24 @@
   </body>
 
 </html>
+Add css as well
+body
+{background-color: black;
+color: white;
+}
+h2{
+	color: red;
+	font-family: arial;
+	font-size: 18;
+}
+em{
+	text-decoration: underline;
+}
+b{
+	color:yellow;
+	
+}
+ol{
+	
+	letter-spacing: 0.08em;
+}
